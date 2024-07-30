@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="../me.png" align="left" height="150" style="margin-right: 20px;">
-  Hello, I'm Paulo. This is a dedicated organization to manage my studies. <br><br>
+  Hello, I'm Paulo. This is a dedicated organization to manage my studies in my college, São Paulo Tech School. <br><br>
   Welcome to my profile! Feel free to explore my repositories and notes, <br>
   make suggestions or simply chat. I am always open to new connections and learning opportunities. <br><br>
   Follow me and see my projects on my profile: https://github.com/Paulo-Alvares
@@ -10,7 +10,7 @@
 <div style="clear: both;"></div>
 
 
-## <div align="center">📕What Am I Studying?</div>
+## <div align="center">📕What did I study??</div>
 
 <table align="center"><tr>
   <td valign="top" width="20%">
@@ -18,7 +18,7 @@
   ### <div align="center"> Front-End </div>
       
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=3" />
   </p>
   </td>
   
@@ -27,16 +27,34 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,kotlin&theme=dark&perline=3" />
   </p>
   </td>
   
   <td valign="top" width="20%">
 
-  ### <div align="center"> Database & Clound</div>
+  ### <div align="center"> Database </div>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongo,azure&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark&perline=3" />
+  </p>
+  </td>
+
+  <td valign="top" width="20%">
+
+  ### <div align="center"> Cloud </div>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=azure,aws,terraform&theme=dark&perline=3" />
+  </p>
+  </td>
+  
+  <td valign="top" width="20%">
+
+  ### <div align="center"> Tools </div>
+
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,figma,docker,arduino&theme=dark&perline=3" />
   </p>
   </td>
 </tr></table>
