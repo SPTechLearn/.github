@@ -1,16 +1,16 @@
-## <div align="center">👋About Me</div>
+## <div align="center">👋Sobre Mim</div>
 
 <p align="left">
   <img src="../me.png" align="left" height="150" style="margin-right: 20px;">
-  Hello, I'm Paulo. This is a dedicated organization to manage my studies in my college, São Paulo Tech School. <br><br>
-  Welcome to my profile! Feel free to explore my repositories and notes, <br>
-  make suggestions or simply chat. I am always open to new connections and learning opportunities. <br><br>
-  Follow me and see my projects on my profile: https://github.com/Paulo-Alvares
+  Olá, meu nome é Paulo. Esta é uma organização dedicada a gerenciar meus estudos na minha faculdade, a São Paulo Tech School. <br><br>
+  Bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e notas, <br>
+  faça sugestões ou simplesmente converse. Estou sempre aberto a novas conexões e oportunidades de aprendizado. <br><br>
+  Siga-me e veja meus projetos no meu perfil: https://github.com/Paulo-Alvares
 </p>
 <div style="clear: both;"></div>
 
 
-## <div align="center">📕What did I study??</div>
+## <div align="center">📕O que eu aprendi??</div>
 
 <table align="center"><tr>
   <td valign="top" width="20%">
@@ -59,7 +59,7 @@
   </td>
 </tr></table>
 
-## <div align="center">📱Social Media</div>
+## <div align="center">📱Redes Sociais</div>
 <div align="center"> 
   <a href="https://github.com/Paulo-Alvares" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -81,7 +81,7 @@
   </a>
 </div>
 
-## <div align="center">🏃Activity</div>
+## <div align="center">🏃Atividade</div>
 
 <div align="center">
   <img src="https://github.com/Paulo-Alvares/Paulo-Alvares/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
