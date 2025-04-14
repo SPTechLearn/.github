@@ -27,7 +27,7 @@
   ### <div align="center"> Back-End </div>
 
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=nodejs,java,spring,python,kotlin&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=nodejs,java,spring,kotlin&perline=3" />
   </p>
   </td>
   
