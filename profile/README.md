@@ -36,7 +36,7 @@
   ### <div align="center"> Database </div>
 
   <p align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=mysql,postgres,mongo&perline=3" />
+    <img src="https://iconsverse.vercel.app/icons?i=mysql,sqlserver,postgres,mongo&perline=3" />
   </p>
   </td>
 
